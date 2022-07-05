@@ -2,7 +2,7 @@
 
 # GraphQL Landscape
 
-![GraphQL Landscape Logo](https://landscape.graphql.org/images/left-logo.svg)
+![P1 Landscape Logo](https://github.com/elawrence33/P1-Landscape.git)
 
 - [GraphQL Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
