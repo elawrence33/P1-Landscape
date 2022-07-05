@@ -2,7 +2,7 @@
 
 # GraphQL Landscape
 
-![P1 Landscape Logo](https://github.com/elawrence33/P1-Landscape.git)
+![P1 Landscape Logo](https://software.af.mil/wp-content/uploads/2020/02/Logo-Platform-One.png)
 
 - [GraphQL Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
